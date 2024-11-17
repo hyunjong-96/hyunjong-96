@@ -1,4 +1,4 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunjong96)](https://hyunjong96.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunjong96)]([https://hyunjong96.tistory.com/](https://hyunjong96.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8))
 
 
 <a href="https://github.com/devxb/gitanimals">
