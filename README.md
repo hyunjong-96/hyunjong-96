@@ -1,5 +1,3 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyunjong96)](https://hyunjong96.tistory.com)
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img
