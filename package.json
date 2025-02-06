@@ -1,0 +1,17 @@
+{
+  "name": "hyunjong-96",
+  "version": "1.0.0",
+  "description": "<a href=\"https://github.com/devxb/gitanimals\">\r   <img\r     src=\"https://render.gitanimals.org/lines/hyunjong-96\"\r     width=\"600\"\r     height=\"120\"\r   />\r </a>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
