@@ -1,3 +1,14 @@
+import { writeFileSync } from 'node:fs';
+import Parser from "rss-parser";
+
+let text = `<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/lines/hyunjong-96"
+  width="600"
+  height="120"
+/>
+</a>`
+
 // rss-parser 생성
 const parser = new Parser({
     headers: {
@@ -7,7 +18,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://devpad.tistory.com/rss'); // 본인의 블로그 주소
+    const feed = await parser.parseURL('https://hyunjong96.tistory.com/rss'); // 본인의 블로그 주소
     
     text += `<ul>`;
     
@@ -22,9 +33,9 @@ const parser = new Parser({
 
     text += `</ul>`;
     
-    // // README.md 파일 생성
-    // writeFileSync('README.md', text, 'utf8', (e) => {
-    //     console.log(e);
-    // })
-    // console.log('업데이트 완료');
+    // README.md 파일 생성
+    writeFileSync('README.md', text, 'utf8', (e) => {
+        console.log(e);
+    })
+    console.log('업데이트 완료');
 })();

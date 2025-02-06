@@ -1,24 +1,7 @@
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hyunjong-96"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
-<!--
-**hyunjong-96/hyunjong-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://render.gitanimals.org/lines/hyunjong-96"
+  width="600"
+  height="120"
+/>
+</a><ul><li><a href='https://hyunjong96.tistory.com/17' target='_blank'>[토이프로젝트] - 6. 인증</a></li><li><a href='https://hyunjong96.tistory.com/16' target='_blank'>[토이프로젝트] - 5. 멀티모듈 Bean 등록</a></li><li><a href='https://hyunjong96.tistory.com/15' target='_blank'>[토이프로젝트] - 4. Spring Boot 멀티 모듈 yml 설정</a></li><li><a href='https://hyunjong96.tistory.com/14' target='_blank'>[토이프로젝트] - 3. Vue - SpringBoot 연동</a></li><li><a href='https://hyunjong96.tistory.com/13' target='_blank'>[토이프로젝트] - 2. Vue 설치</a></li><li><a href='https://hyunjong96.tistory.com/12' target='_blank'>[토이프로젝트] - 1. 멀티모듈 세팅</a></li><li><a href='https://hyunjong96.tistory.com/10' target='_blank'>[ERROR] Can't commit changes from multiple changelists at once</a></li><li><a href='https://hyunjong96.tistory.com/9' target='_blank'>[ERROR] Caused by: java.nio.file.FileSystemNotFoundException: null</a></li><li><a href='https://hyunjong96.tistory.com/8' target='_blank'>[ERROR] Cannot construct instance of ~ Cannot deserialize from Object value 에러</a></li><li><a href='https://hyunjong96.tistory.com/7' target='_blank'>[SpringSecurity] h2 설정</a></li></ul>
