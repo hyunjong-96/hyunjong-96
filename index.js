@@ -7,6 +7,9 @@ let text = `<a href="https://github.com/devxb/gitanimals">
   width="600"
   height="120"
 />
+
+## 📕 Latest Blog Posts
+
 </a>`
 
 // rss-parser 생성
@@ -23,7 +26,7 @@ const parser = new Parser({
     text += `<ul>`;
     
     // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 5; i++) {
         const {title, link} = feed.items[i];
         console.log(`${i + 1}번째 게시물`);
         console.log(`추가될 제목: ${title}`);
